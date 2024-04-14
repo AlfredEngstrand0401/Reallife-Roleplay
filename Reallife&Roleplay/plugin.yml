@@ -1,0 +1,14 @@
+name: ReallifeRoleplay
+version: 1.0
+main: me.alfredengstrand.realliferoleplay.Main
+author: AlfredEngstrand
+api-version: 1.19
+
+commands:
+    storyline:
+    eco:
+    shout:
+    whisper:
+    interface:
+    farmer:
+    waypoint:
